@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Ankita-hub03
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on coding 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m interested in coding
+- 💞️ I’m looking to collaborate on project 
+- 💭 Ask me about anything ready to help you
+- 😄 Call me Ankita
+- ⚡ Fun fact: I am human 😅
 
 <!---
 Ankita-hub03/Ankita-hub03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
