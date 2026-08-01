@@ -1,10 +1,14 @@
-- 🔭 I’m interested in coding
-- 💞️ I’m looking to collaborate on project 
-- 💭 Ask me about anything ready to help you
-- 😄 Call me Ankita
-- ⚡ Fun fact: I am human 😅
+# Hi there, I'm Ankita! 👋
 
-<!---
-Ankita-hub03/Ankita-hub03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🎓 Computer Science Student & Backend Developer
+Building RESTful APIs with Node.js, Express, and PostgreSQL/Sequelize.
+
+---
+
+### 🛠 Tech Stack
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
